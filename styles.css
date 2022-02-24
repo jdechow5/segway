@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Emblema One";
+  src: url("http: //wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff");
+  src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf")
+}
+
+body {
+  font-family: "Emblema One", sans-serif;
+  font-size: small;
+}
+
+h1 {
+  font-family: "Emblema One", sans-serif;
+  font-size: 2.2em;
+}
+
+h2 {
+  font-size: 1.3em;
+}
